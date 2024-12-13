@@ -91,7 +91,11 @@ Cuando funcione y Corra los valores serán mostrados en la pantalla LCD, cada 2 
 
 ![image](https://github.com/MiguelMontesinos/Ultras-nico-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20200957.png?raw=true)
 
-![image]()
+![image](https://github.com/MiguelMontesinos/Ultras-nico-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20201027.png?raw=true)
 
 
 ## Desarrollado por
+
+**Ing. Miguel De Jesus Montesinos Molina** 
+
+[GitHub](https://github.com/MiguelMontesinos).
