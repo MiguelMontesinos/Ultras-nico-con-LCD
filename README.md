@@ -74,7 +74,7 @@ lcd.clear();
 
 ## Conexión
 
-![image](https://github.com/user-attachments/assets/6a983b55-4e03-4c79-a382-bd937eff4bc0)
+![image](https://github.com/MiguelMontesinos/Ultras-nico-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20201325.png?raw=true)
 
 
 ##Instrucciones de operación 
